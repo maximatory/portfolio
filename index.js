@@ -130,3 +130,9 @@ document.addEventListener('keypress', function (event) {
    }
 });
 
+console.log('L — перемотка на 10 секунд вперёд')
+console.log('J — перемотка на 10 секунд назад')
+console.log('Space - пауза / продолжить воспроизведение')
+console.log('M  — отключение / включение звука')
+console.log('F  — включение / выключение полноэкранного режим')
+
